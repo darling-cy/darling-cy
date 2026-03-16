@@ -1,25 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Darling-CY&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000428,100:004e92&text=Darling%20CY&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 
-<h1 align="center">Hi 👋 I'm Darling</h1>
+<h1 align="center">🌌 Hi I'm Darling</h1>
 
 <p align="center">
-💻 Computer & Security Learner <br>
-🚀 Interested in Backend / Security / Embedded <br>
-🌏 Exploring the world of code
+💻 Computer Student  
+🔐 Security & Backend Learner  
+🚀 Exploring Systems / Networks / Embedded
 </p>
 
 ---
 
-## 🌌 About Me
-
-* 🔭 Currently learning **Java / Spring / Security**
-* 🌱 Interested in **Network Security & Reverse Engineering**
-* 💡 Like exploring **systems, networks and hardware**
-* ⚡ Fun fact: Code + Coffee = Productivity
-
----
-
-## 🚀 Tech Stack
+# ✨ Tech Stack
 
 <p align="center">
 
@@ -29,7 +20,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -41,7 +32,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=darling-cy&theme=tokyonight"/>
@@ -49,30 +40,22 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 RGB Snake Animation
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/darling-cy/darling-cy/output/snake-ocean.svg"/>
+<img src="https://raw.githubusercontent.com/darling-cy/darling-cy/output/snake-rainbow.svg"/>
 
 </p>
 
 ---
 
-## 🌠 Visitors
+# 🌠 Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=darling-cy&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=darling-cy&color=blueviolet"/>
 </p>
 
 ---
 
-## ☕ Support
-
-<p align="center">
-If you like my projects, give them ⭐
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:004e92,100:000428&section=footer"/>
